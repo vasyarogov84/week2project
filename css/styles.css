@@ -1,0 +1,40 @@
+h1 {
+  font-family: 'Changa One', cursive;
+  text-align: center;
+}
+.Ruby {
+  display: none;
+  background-color: white;
+}
+.PHP {
+  display: none;
+  background-color: white;
+}
+.Java {
+  display:none; ;
+  margin-left: 20px;
+  background-color: white;
+
+
+}
+p {
+  font-size: 20px;
+  background: 2px solid black;
+}
+.btn {
+  color: green;
+
+}
+.container {
+  background-color: lightgreen;
+  min-height: 1000px;
+}
+.jumbotron {
+  margin-top: 50px;
+}
+.test {
+  display: none;
+}
+.test {
+  display: none;
+}
